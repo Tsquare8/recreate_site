@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+
+* {
+  box-sizing: border-box;
+  /*border: 1px #0f0 dashed;*/
+}
+
+body {
+  font-style: normal;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  /*line-height: 39.2;*/
+  text-rendering: optimizeLegibility;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 16px;
+  font-family: "Droid Serif";
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+img {
+  text-align: center;
+  box-align: center;
+  height: 350px;
+  width: 350px;
+}
+
+hr {
+  align-content: center;
+  width: 20px
+}
+
+.eggs {
+  width: 712px;
+  height: 597.5px;
+  margin: 0;
+  color white;
+  float: left;
+  text-align: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: top;
+}
+
+.eggs h1 {
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+.eggs h2 {
+  margin-top: 14px;
+}
+
+#header {
+  margin: 50px 60px;
+}
+
+#head1 {
+  color: #f38481;
+  font-family: montserrat, sans-serif;
+}
+
+#head2 {
+  color: #bbb;
+}
+
+#hboil {
+  background-color: #ec7471;
+  color: white;
+}
+
+#sboil {
+  background-color: #93dc88;
+  color: white;
+}
+
+#sunny {
+  background-color: #85cdf4;
+  color: white;
+}
+
+#poached {
+  background-color: #c097cc;
+  color: white;
+}
+
+#easy {
+  background-color: #2bcbc5;
+  color: white;
+}
+
+#hard {
+  background-color: #f3bfb9;
+  color: white;
+}
+
+#scrambled {
+  background-color: #e3d578;
+  color: white;
+}
+
+#omelette {
+  background-color: #7191e4;
+  color: white;
+}
+
+#foot {
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  width: 1424px;
+  height: 70px;
+}
+
+#credit {
+  float:left;
+  padding: 16px;
+  margin-left: 60px;
+
+}
+#link {
+  width: 28px;
+  height: 28px;
+  float: right;
+  margin-right: 60px;
+  margin-top: 25px;
+}
